@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FF0B6156</color>
+    <color name="colorPrimaryDark"> #FF095049</color>
+
+    <color name ="colorAccent"> #FF03DAC5</color>
+    <color name = "lightGrey"> #FFEDEDED</color>
+    <color name = "whatsAppColor"> #FF0B6156</color>
+
+    <color name="red" >#FF9F0B0B</color>
+    <color name= "status_background" > #FF009688</color>
+
+    <color name ="chat_background" > #FF8BC34A</color>
+    <color name = "fb_color">  #FF3C5793</color>
+    <color name="lightgreen"> #FFE5FFCC</color>
+    <color name = "settingsIconColor"> #FF0E8374</color>
+    <color name= "grayBackground">#FFBCBCBC</color>
+    <color name = "chatbackground"> #FFAAAAAA</color>
+</resources>

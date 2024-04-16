@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">ChatWithMe</string>
+    <string name="icon">Icon</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="google">Google</string>
+    <string name="facebook">FaceBook</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="sign_up_with_phone">Sign Up with phone</string>
+    <string name="click_to_sign_up">Click to Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="setting">Setting</string>
+    <string name="group_chat">Group Chat</string>
+    <string name="logout">Logout</string>
+    <string name="default_web_client_id" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calls_fragment">Calls Fragment</string>
+    <string name="status_fregment">Status Fregment</string>
+    <string name="rahul_mondal">Rahul Mondal</string>
+    <string name="lastText_message">Last message</string>
+    <string name="message">Message</string>
+    <string name="users_name">User Name</string>
+    <string name="_6_24_pm">6:24 pm</string>
+    <string name="textview">TextView</string>
+    <!--    <string name="default_web_client_id">"438431947620-ecpi41uk3dhhf4mv8g8q993k3vs49ltm.apps.googleusercontent.com"</string>-->
+</resources>
